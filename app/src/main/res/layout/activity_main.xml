@@ -7,7 +7,7 @@
     android:background="@drawable/f"
     android:orientation="vertical">
 /*   1313
-
+12
     */
     <TextView
         android:id="@+id/t_a"
