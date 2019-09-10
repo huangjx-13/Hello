@@ -6,7 +6,9 @@
     android:layout_height="match_parent"
     android:background="@drawable/f"
     android:orientation="vertical">
+/*   1313
 
+    */
     <TextView
         android:id="@+id/t_a"
         android:layout_width="wrap_content"
